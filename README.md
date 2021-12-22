@@ -1,1 +1,1 @@
-# Patika.dev - Frontend // Bootstrap Ödevi
+# The first Bootstrap project within the scope of Patika.dev
